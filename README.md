@@ -40,7 +40,7 @@ My journey is fueled by curiosity and consistent effort — not hype.
 
 ## 🚧 Ongoing Work
 
-🔹 **ML Project — (Add title here)**  
+🔹 **ML Project — ML based lung disease classifier**  
 Building a machine-learning system that:  
 - Uses real data for training  
 - Applies preprocessing, model tuning, evaluation  
