@@ -38,15 +38,23 @@ My journey is fueled by curiosity and consistent effort — not hype.
 
 ---
 
-## 🚧 Ongoing Work
+## 🚀 Featured Project
 
-🔹 **ML Project — ML based lung disease classifier**  
-Building a machine-learning system that:  
-- Uses real data for training  
-- Applies preprocessing, model tuning, evaluation  
-- Integrates with backend logic you can deploy
+### 🫁 AI Lung Disease Classifier
 
-*It’s not a tutorial — it’s a working system.*
+A machine learning system that analyzes **lung sound recordings** and predicts respiratory conditions using **Deep Learning (CNN)** and **audio signal processing**.
+
+**Key Highlights**
+
+• Built an end-to-end ML pipeline for lung sound classification
+• Extracted audio features using **MFCC and signal processing techniques**
+• Trained a **Convolutional Neural Network (CNN)** using TensorFlow/Keras
+• Developed a **FastAPI backend** for real-time prediction
+• Designed a simple web interface to upload audio and view predictions
+
+🔗 **Project Repository**
+https://github.com/Suruthi-Vijaya02/ML-lung-disease-classifier
+
 
 ---
 
